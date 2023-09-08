@@ -1,0 +1,53 @@
+header{
+    color:#E5EACC ;
+    background-color: yellow;
+    text-shadow: 3px 3px 5px #294747 ;
+    height: 200px;
+    text-align: center;
+    font-size:  300%; 
+    background-image:url('blogpost_background.jpg') ;
+    
+    background-size: cover;
+    /* text-decoration:underline wavy rgb(231, 5, 5); */
+}
+h3
+{
+    text-align: center;
+    color: #E5EACC;
+ background-color:#294747;
+    width: 20%;
+    border-radius: 10%;
+    text-align: center;
+    
+}
+p{
+    color:#0c6346;
+    background-color:#ffffff8f;
+    font-family:cursive;
+    
+}
+.page-title{
+
+  color:  rgb(238, 206, 157);
+    background: rgba(255, 0, 51, 0.908);
+    font-weight: 900;
+}
+input{
+    margin: 10px 1px ;
+    display: inline;
+    
+}
+input[type="text"]{
+    border: 5px solid #0c6346 ;
+    border-radius: 10px;
+    
+}
+input[type="password"]{
+    border: 5px solid #5d1010 ;
+    border-radius: 10px;
+    
+}
+button{
+    border-radius: 500px;
+    fill: #0c6346;
+}
